@@ -1,0 +1,8 @@
+GLOBAL FOOD PRICES - DATASET SUMMARY
+================================================================================
+
+Total Records: 743,895
+Date Range: 1992-01-01 00:00:00 to 2017-06-01 00:00:00
+Countries: 74
+Commodities: 321
+Markets: 1,449
